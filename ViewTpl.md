@@ -39,7 +39,7 @@ compile time, load time, start-up time restart-time, link-time ...
 
 # Section 5. Rationale     
 Write here informations about chosen architectural design. If you've created an issue with architectural design put a link. 
-See at #1
+See at 
 
 # Section 6. Related views    
 
