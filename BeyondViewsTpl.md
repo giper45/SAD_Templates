@@ -1,16 +1,16 @@
 # Beyond Views: name of Software Architecture Documentation 
 ## Section 1: Roadmap    
 What information can you find?   
-### Scope and summary: 
+### 1.1 Scope and summary: 
 Purpose of documentation and summirize what is covered and what not, relation with other documents    
 
-### Documentation Organization   
+### 1.2 Documentation Organization   
 Give a table of contents here or a sinopsis of informations     
 
-### Guide to stakeholders     
+### 1.3 Guide to stakeholders     
 How to use the documentations with examples:   
 * A maintainer wishes to know the units of software that changed after a modification. He can consult the [ViewExample] (ViewTpl.md) view to understand which modules will be affected.    
-### Section 2: How views are documented     
+## Section 2: How views are documented     
 An example could be:    
 **SEI guidelines** are used for this documentation    
 or    
@@ -31,8 +31,13 @@ General architectural decisions, such as
 ## Section 6: Directory     
 ### Index    
 Elements, relations and property that appear anywhere in the architecture documentation     
-### List of all views    
-* [Name view](ViewTpl.md)
+### Views summary 
+| Name                    | Type       | Description | Useful for                                                         |
+|-------------------------|------------|-------------|--------------------------------------------------------------------|
+| [Name view](ViewTpl.md) | ModuleView |             | Mantainer: Can use to discover which ...  Tester: can use to ....  |
+
+
+
 ### Glossary     
 A list of all terms used in architecture documentation. If there is any system glossary, link at it.    
 ### Acronym List     
