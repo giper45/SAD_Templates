@@ -37,9 +37,9 @@ compile time, load time, start-up time restart-time, link-time ...
 
 ... Other VPs
 
-## Section 5. Rationale   
+# Section 5. Rationale   
 
-## Section 6. Related views    
+# Section 6. Related views    
 
 Here a list of link-related views 
 * [ViewNameOne]() 
