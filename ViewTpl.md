@@ -1,9 +1,12 @@
-# Primary Presentation
+# Name of view
 Here the description or the graphic view (elements and relations between them)     
-# Element Catalog    
-# Context Diagram    
-Set a link to context diagram or set an image
-#  Variability Guide     
+# Section 2. Element Catalog    
+## Section 2.A. Elements and Their Properties   
+## Section 2.B. Relations and Their Properties  
+If you use special relations that you've not graphically rapresented use this section. Otherwise this will be empty
+# Section 3.  Context Diagram    
+Insert a link or an image for the context diagram.
+# Section 4.  Variability Guide     
 
 ## VP1: Name of variation point   
 Description (Describe **architectural** variation and **for stakeholders** infos) 
@@ -34,9 +37,9 @@ compile time, load time, start-up time restart-time, link-time ...
 
 ... Other VPs
 
-## Rationale   
+## Section 5. Rationale   
 
-## Related views    
+## Section 6. Related views    
 
 Here a list of link-related views 
 * [ViewNameOne]() 
