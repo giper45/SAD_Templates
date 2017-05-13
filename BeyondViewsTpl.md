@@ -10,15 +10,14 @@ Give a table of contents here or a sinopsis of informations
 ### Guide to stakeholders     
 How to use the documentations with examples:   
 * A maintainer wishes to know the units of software that changed after a modification. He can consult the [ViewExample] (ViewTpl.md) view to understand which modules will be affected.    
-### How views are documented     
+### Section 2: How views are documented     
 An example could be:    
 **SEI guidelines** are used for this documentation    
 or    
 The documentation is based on [Views and Beyond](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30386) guidelines
  
-## Section 2:  System overview     
+## Section 3:  System overview     
 Description of system's function, users, constraints, background     
-## Section 3: Mapping between views 
 ## Section 4: Mapping between views   
 3 way to mapping    
 * Use a 2 row elements for each mapping between 2 views    
