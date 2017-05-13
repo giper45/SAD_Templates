@@ -31,7 +31,10 @@ General architectural decisions, such as
 ## Section 6: Directory     
 ### Index    
 Elements, relations and property that appear anywhere in the architecture documentation     
+### List of all views    
+* [Name view](ViewTpl.md)
 ### Glossary     
 A list of all terms used in architecture documentation. If there is any system glossary, link at it.    
 ### Acronym List     
 By reference or here 
+
