@@ -36,4 +36,11 @@ compile time, load time, start-up time restart-time, link-time ...
 
 ## Rationale   
 
-[Back](BeyondViewsTpl.md)
+## Related views    
+
+Here a list of link-related views 
+* [ViewNameOne]() 
+* [ViewNameTwo]() 
+*  ....
+
+Return to [Beyond Views](BeyondViewsTpl.md)
